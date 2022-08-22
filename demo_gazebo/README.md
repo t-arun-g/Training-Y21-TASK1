@@ -24,4 +24,4 @@ HOW I MADE IT
 9. used the command $rosrun map_server map_saver -f map to get the image of the gmap
 
 
-LINK TO MY YOUTUBE VIDEO : 
+LINK TO MY YOUTUBE VIDEO : https://youtu.be/MsiLmhWLNtA
